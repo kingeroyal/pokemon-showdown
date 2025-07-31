@@ -10717,7 +10717,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		name: "Eelektross",
 		types: ["Electric"],
 		baseStats: { hp: 85, atk: 115, def: 80, spa: 105, spd: 80, spe: 50 },
-		abilities: { 0: "Levitate" },
+		abilities: { 0: "Levitate", H: "Spook" },
 		heightm: 2.1,
 		weightkg: 80.5,
 		color: "Blue",
